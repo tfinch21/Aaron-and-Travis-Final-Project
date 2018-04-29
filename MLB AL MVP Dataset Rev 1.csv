@@ -5,7 +5,7 @@ J. Donaldson,0.297,2015,41,123
 M. Trout,0.287,2014,36,111
 M. Cabrera,0.348,2013,44,137
 M. Cabrera,0.33,2012,44,139
-J. Verlander,,2011,,
+J. Verlander,0,2011,0,0
 J. Hamilton,0.359,2010,32,100
 J. Mauer,0.365,2009,28,96
 D. Pedroia,0.326,2008,17,83
@@ -24,6 +24,6 @@ J. Gonzalez,0.314,1996,47,144
 M. Vaughn,0.3,1995,39,126
 F. Thomas,0.353,1994,38,101
 F. Thomas,0.317,1993,41,128
-D. Eckersley,,1992,,
+D. Eckersley,0,1992,0,0
 C. Ripken,0.323,1991,34,114
 R. Henderson,0.325,1990,28,61
